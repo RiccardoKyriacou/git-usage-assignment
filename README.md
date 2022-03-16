@@ -1,6 +1,6 @@
 # git-usage-assignment
 
-This repository answers assignemnt question 3
+This repository answers assignment question 3
 
 DATA
 ====
